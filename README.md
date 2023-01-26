@@ -1,2 +1,2 @@
 # newrepo
-my new repo
+Messing around with git
